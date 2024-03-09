@@ -12,8 +12,10 @@ And then you can run it with
 
 # Example
 
-```chmod +x Anagram_Finder.py
+```bash
+chmod +x Anagram_Finder.py
 ./Anagram_Finder.py listen test silent hello god dog olleh
 eilnst : ['listen', 'silent']
 ehllo : ['hello', 'olleh']
-dgo : ['god', 'dog']```
+dgo : ['god', 'dog']
+```
